@@ -4,15 +4,15 @@
 A SQL-based relational database designed to manage and analyze student enrollments and course performance.
 
 ##  Tech Stack
-- **Database:** PostgreSQL / MySQL
-- **Tooling:** DBeaver / MySQL Workbench
+- **Database:**  MySQL
+- **Tooling:**  MySQL Workbench
 
 ##  Database Schema
 The project uses a relational model with two main entities:
 - **Students:** Tracks student names, grades, and enrollment dates.
 - **Courses:** Contains course details, credits, and instructor names.
 
-[Insert your ERD Image Link here]
+[click here to view the ER diagram](https://www.gleek.io/templates/student-management-er)
 
 ##  Key Queries
 I performed the following analysis:
